@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/about.png</file>
+        <file>resources/barleybreak.png</file>
+        <file>resources/cascade.png</file>
+        <file>resources/close.png</file>
+        <file>resources/exit.png</file>
+        <file>resources/gaussian.png</file>
+        <file>resources/medianblur.png</file>
+        <file>resources/new.png</file>
+        <file>resources/next.png</file>
+        <file>resources/open.png</file>
+        <file>resources/previous.png</file>
+        <file>resources/reset.png</file>
+        <file>resources/resize.png</file>
+        <file>resources/save.png</file>
+        <file>resources/scharr.png</file>
+        <file>resources/sobel.png</file>
+        <file>resources/tile.png</file>
+        <file>resources/togray.png</file>
+    </qresource>
+</RCC>

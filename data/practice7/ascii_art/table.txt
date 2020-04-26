@@ -1,0 +1,19 @@
+Name     | Position                         | Experience
+Victor   | Software Development Intern      | 5 years
+Nancy    | Steward                          | half-year
+Alexander| Deep Learning Software Developer | 3 years
+Threading Runtimes team is looking for active and motivated student                      | TBB Software Intern              | 3124 years
+with progra*ing skills who is interested in building a career of software               |                                  |
+engineer at Intel. In this position you will join software engineering team              |                                  |
+of highly skilled and motivated professionals responsible for development of             |                                  |
+Intel Threading Building Blocks (Intel TBB) runtime library. Intel TBB is a widely       |                                  |
+used C++ template library for task parallelism that lets you easily write parallel       |                                  |
+programs that take full advantage of multicore performance, are portable and composable, |                                  |
+and have future-proof scalability.                                                       |                                  |
+                                                                                         |         ,*8&&&.                | Saturn
+                                                                                         |    _...**88&&&&..._           |
+                                                                                         |  .::'''**88&&&&&&'''::.       |
+                                                                                         |  ::   **88&&&&&&     ::       |
+                                                                                         | '::....**88&&&&&&....::'      |
+                                                                                         |    `''''**88&&&&''''`         |
+                                                                                         |          '*8&&&'               |

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/about.png</file>
+        <file>resources/cascade.png</file>
+        <file>resources/close.png</file>
+        <file>resources/exit.png</file>
+        <file>resources/new.png</file>
+        <file>resources/next.png</file>
+        <file>resources/open.png</file>
+        <file>resources/previous.png</file>
+        <file>resources/tile.png</file>
+        <file>resources/save.png</file>
+        <file>resources/addrow.png</file>
+        <file>resources/deleterow.png</file>
+        <file>resources/moverow.png</file>
+    </qresource>
+</RCC>
